@@ -1,0 +1,16 @@
+/*
+Theme Name:        Farmacia Costa 2026
+Theme URI:         https://www.farmaciacostacarbonia.com/
+Author:            Farmacia Costa
+Description:       Tema block nativo su misura per Farmacia Costa Carbonia. "La farmacia di Carbonia, dal 1938 verso il futuro": design system con token in theme.json, template Full Site Editing, pattern dinamici, CSS e JavaScript vanilla, font locali WOFF2. Nessuna dipendenza da page builder.
+Version:           1.0.0
+Requires at least: 6.5
+Tested up to:      6.8
+Requires PHP:      8.0
+License:           GNU General Public License v2 or later
+License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:       farmacia-costa-2026
+Tags:              block-theme, full-site-editing, custom-colors
+*/
+
+/* Gli stili del frontend sono in assets/css/main.css (caricato da functions.php). */
