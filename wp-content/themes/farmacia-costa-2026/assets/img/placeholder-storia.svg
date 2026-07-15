@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-label="Segnaposto: fotografia storica in arrivo">
+	<!-- PLACEHOLDER: sostituire con una fotografia storica reale della Farmacia Costa (vedi EDITOR-GUIDE.md). -->
+	<rect width="800" height="600" fill="#F0E4D7"/>
+	<g fill="none" stroke="#A8481F" stroke-width="3" opacity="0.45">
+		<rect x="270" y="150" width="260" height="200" rx="8"/>
+		<circle cx="345" cy="225" r="26"/>
+		<path d="M290 330l80-90 60 60 45-45 55 75"/>
+	</g>
+	<text x="400" y="430" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#8C3B19">Fotografia storica, 1938</text>
+	<text x="400" y="468" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#26312C" opacity="0.75">Segnaposto — in attesa dell'archivio di famiglia</text>
+</svg>
